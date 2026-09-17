@@ -1,0 +1,8 @@
+.errorInput {
+    border-color: rgb(239 68 68);
+}
+
+.errorInput:focus {
+    border-color: rgb(239 68 68);
+    --tw-ring-color: rgb(239 68 68 / 0.1);
+}
