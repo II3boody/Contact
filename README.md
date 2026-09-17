@@ -1,4 +1,4 @@
-# 🌟 Modern React Contact Page
+# Modern React Contact Page
 
 A sleek, highly responsive, and beautifully animated Contact Page built with React and Tailwind CSS. This project demonstrates modern web design principles including glassmorphism, dynamic animations, and seamless light/dark mode integration.
 
@@ -7,7 +7,7 @@ A sleek, highly responsive, and beautifully animated Contact Page built with Rea
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## ✨ Features
+## Features
 
 - **Premium Aesthetics**: Features a glassmorphism card layout with subtle radial gradients and dotted masking.
 - **Dynamic Micro-animations**: Background blur elements elegantly drift across the screen (`drift-a` & `drift-b`), providing a "live" feel to the interface.
@@ -20,7 +20,7 @@ A sleek, highly responsive, and beautifully animated Contact Page built with Rea
 - **Modern Typography**: Integrated with Google's 'Inter' font for a sharp and modern look.
 - **Fully Accessible**: Implements extensive `aria` labels (`aria-invalid`, `aria-describedby`) ensuring the form is accessible to everyone.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ Make sure you have Node.js installed on your machine.
 4. **Open in browser:**
    Navigate to `http://localhost:5173` to see the application running.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -69,17 +69,17 @@ src/
 └── main.tsx                      # Entry point
 ```
 
-## 🛠️ Built With
+## Built With
 
 - [React 18](https://reactjs.org/) - The UI library used.
 - [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling.
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for rapid UI development.
 - [TypeScript](https://www.typescriptlang.org/) - For adding static typing and improved developer experience.
 
-## 🤝 Contributing
+## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/II3boody/Contact/issues).
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/II3boody/Contact/issues).
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
